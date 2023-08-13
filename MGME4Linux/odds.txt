@@ -1,0 +1,9 @@
+﻿Certain
+Nearly Certain
+Very Likely
+Likely
+50/50
+Unlikely
+Very Unlikely
+Nearly Impossible
+Impossible
